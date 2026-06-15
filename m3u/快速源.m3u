@@ -1,0 +1,62 @@
+#EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml.gz"
+
+#EXTINF:-1 tvg-id="CCTV1HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV1HD.png" group-title="快速源",CCTV-1 综合
+http://198.204.240.250:82/live/cctv1.m3u8
+http://69.30.245.50/live/cctv1.m3u8
+
+#EXTINF:-1 tvg-id="CCTV2HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV2HD.png" group-title="快速源",CCTV-2 财经
+http://69.30.245.50/live/cctv2.m3u8
+
+#EXTINF:-1 tvg-id="CCTV3HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV3HD.png" group-title="快速源",CCTV-3 综艺
+http://69.30.245.50/live/cctv3.m3u8
+
+#EXTINF:-1 tvg-id="CCTV4HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV4HD.png" group-title="快速源",CCTV-4 中文国际
+http://69.30.245.50/live/cctv4.m3u8
+
+#EXTINF:-1 tvg-id="CCTV5HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV5HD.png" group-title="快速源",CCTV-5 体育
+http://69.30.245.50/live/cctv5.m3u8
+
+#EXTINF:-1 tvg-id="CCTV6HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV6HD.png" group-title="快速源",CCTV-6 电影
+http://198.204.240.250:82/live/cctv6.m3u8
+http://69.30.245.50/live/cctv6.m3u8
+
+#EXTINF:-1 tvg-id="CCTV7HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV7HD.png" group-title="快速源",CCTV-7 国防军事
+http://69.30.245.50/live/cctv7.m3u8
+
+#EXTINF:-1 tvg-id="CCTV8HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV8HD.png" group-title="快速源",CCTV-8 电视剧
+http://69.30.245.50/live/cctv8.m3u8
+
+#EXTINF:-1 tvg-id="CCTV9HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV9HD.png" group-title="快速源",CCTV-9 纪录
+http://69.30.245.50/live/cctv9.m3u8
+
+#EXTINF:-1 tvg-id="CCTV10HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV10HD.png" group-title="快速源",CCTV-10 科教
+http://69.30.245.50/live/cctv10.m3u8
+
+#EXTINF:-1 tvg-id="CCTV11HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV11HD.png" group-title="快速源",CCTV-11 戏曲
+http://69.30.245.50/live/cctv11.m3u8
+
+#EXTINF:-1 tvg-id="CCTV12HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV12HD.png" group-title="快速源",CCTV-12 社会与法
+http://69.30.245.50/live/cctv12.m3u8
+
+#EXTINF:-1 tvg-id="CCTV13HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV13HD.png" group-title="快速源",CCTV-13 新闻
+http://198.204.240.250:82/live/cctv13.m3u8
+http://69.30.245.50/live/cctv13.m3u8
+
+#EXTINF:-1 tvg-id="CCTV14HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV14HD.png" group-title="快速源",CCTV-14 少儿
+http://198.204.240.250:82/live/cctv14.m3u8
+http://69.30.245.50/live/cctv14.m3u8
+
+#EXTINF:-1 tvg-id="CCTV15HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV15HD.png" group-title="快速源",CCTV-15 音乐
+http://198.204.240.250:82/live/cctv15.m3u8
+http://69.30.245.50/live/cctv15.m3u8
+
+#EXTINF:-1 tvg-id="CCTV16HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV16HD.png" group-title="快速源",CCTV-16 奥林匹克
+http://198.204.240.250:82/live/cctv16.m3u8
+http://69.30.245.50/live/cctv16.m3u8
+
+#EXTINF:-1 tvg-id="CCTV17HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV17HD.png" group-title="快速源",CCTV-17 农业农村
+http://198.204.240.250:82/live/cctv17.m3u8
+http://69.30.245.50/live/cctv17.m3u8
+
+#EXTINF:-1 tvg-id="CCTV4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV4K.png" group-title="快速源",CCTV-4K 超高清
+http://198.204.240.250:82/live/cctv4k.m3u8
